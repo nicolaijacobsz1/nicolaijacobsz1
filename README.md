@@ -12,10 +12,10 @@
 
 # <img src="https://user-images.githubusercontent.com/55926933/123521560-ffaa3180-d6e9-11eb-9244-1e06927c314c.gif" width="60px"> Github Stats
 <a href="https://github.com/nicolaijacobsz1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolaijacobsz1&show_icons=true" />
+  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolaijacobsz1&show_icons=true" />
 </a>
 <a href=https://github.com/nicolaijacobsz1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaijacobsz1&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaijacobsz1&layout=compact" />
 </a>
 
 
