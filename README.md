@@ -12,11 +12,11 @@ As a Application Support Engineer, I love helping people and coding is my passio
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width:100%;">
 
-- 👋 Hi, I’m @nicolaijacobsz1
-- 👀 I’m interested in ... Learning and Working on Projects
-- 🌱 I’m currently learning ... C# .NET and more advance Ruby on Rails with React.js
-- 💞️ I’m looking to collaborate on ...Projects, lets connect!
-- 📫 How to reach me ... You can message me or follow me!
+#### Some quick information
+- 🕸 I’m interested in Ethical Hacking and Web Development
+- 👨🏻‍💻 I’m currently learning C# .NET and more advance Ruby on Rails with React.js
+- 👥 I’m looking to collaborate on Web application secuirty or web development projects, lets connect!
+- 📫 How to reach me by sending me a message or reaching me on  <a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/">linkedin</a>
 
 # Technology & Tools 
 
