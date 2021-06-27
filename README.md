@@ -17,8 +17,12 @@ As a Application Support Engineer, I love helping people and coding is my passio
 - 👨🏻‍💻 I’m currently learning C# .NET and more advance Ruby on Rails with React.js
 - 👥 I’m looking to collaborate on Web application secuirty or web development projects, lets connect!
 - 📫 How to reach me by sending me a message or reaching me on  <a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/">linkedin</a>
+- 📂 Here is my Resume [NicolaiJacobsz.MY.pdf](https://github.com/nicolaijacobsz1/nicolaijacobsz1/files/6721370/NicolaiJacobsz.MY.pdf)
+
 
 # Technology & Tools 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 # <img src="https://user-images.githubusercontent.com/55926933/123521560-ffaa3180-d6e9-11eb-9244-1e06927c314c.gif" width="60px"> Github Stats
 <a href="https://github.com/nicolaijacobsz1/github-readme-stats">
