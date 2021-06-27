@@ -1,8 +1,27 @@
 
 
 # Howdy, I am <a href="https://nicolaijacobsz1.github.io">Nicolai Jacobsz</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/" rel="nofollow"><img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://nicolaijacobsz1.github.io" rel="nofollow"><img src="https://camo.githubusercontent.com/58303f0576559ea5bd6dad66e2a43cdab19d1902f1d4bdf693e8c0956dc1b46a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3362353939383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465" alt="Website Badge" data-canonical-src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/">
+<img border="0" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
+</a>
+<a href="https://nicolaijacobsz1.github.io">
+<img border="0" alt="Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" style="max-width:100%;">
+</a>
+<a href="https://dribbble.com/Nicolai1">
+<img border="0" alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-FF1493?logo=dribbble&logoColor=white&style=flat-square" style="max-width:100%;">
+</a>
+<a href="https://tryhackme.com/p/suprasayian">
+<img border="0" alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-708090?logo=TryHackMe&logoColor=white&style=flat-square" style="max-width:100%;">
+</a>
+<a href="https://dev.to/nicolaijacobsz1">
+<img border="0" alt="Dev.to" src="https://img.shields.io/badge/-Dev.to-000000?logo=DEV.to&logoColor=white&style=flat-square" style="max-width:100%;">
+</a>
+<a href="https://app.hackthebox.eu/profile/490889">
+<img border="0" alt="hackthebox" src="https://img.shields.io/badge/-HackTheBox-2F4F4F?logo=hackthebox&logoColor=white&style=flat-square" style="max-width:100%;">
+</a>
+
+
+
 
 ## Welcome to my Page! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 <p> I am a Application Support Engineer and UI/UX Designer. I love programming, designing, ethical hacking and traveling.
@@ -13,7 +32,7 @@ As a Application Support Engineer, I love helping people and coding is my passio
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width:100%;">
 
 #### Some quick information
-- 🕸 I’m interested in Ethical Hacking and Web Development
+- 🕸 I’m interested in Ethical Hacking, Web Development, Raspberry Pi Pojects
 - 👨🏻‍💻 I’m currently learning C# .NET and more advance Ruby on Rails with React.js
 - 👥 I’m looking to collaborate on Web application secuirty or web development projects, lets connect!
 - 📫 How to reach me by sending me a message or reaching me on  <a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/">linkedin</a>
@@ -21,8 +40,29 @@ As a Application Support Engineer, I love helping people and coding is my passio
 
 
 # Technology & Tools 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Ruby-8B0000?logo=ruby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-RubyonRails-B22222?logo=rubyonrails&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-.NET-9400D3?logo=CSharp&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-HTML-FF5733?logo=html5&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-CSS-1E90FF?logo=CSS3&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-JavaScript-FFFF00?logo=javascript&logoColor=black&style=flat)
+![](https://img.shields.io/badge/-Java-FFFFFF?logo=java&logoColor=navy&style=flat)
+![](https://img.shields.io/badge/-Phython-6495ED?logo=python&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-MySQL-00BFFF?logo=MySQL&logoColor=white&style=flat)
 
+
+![](https://img.shields.io/badge/-Git-FF7F50?logo=git&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-GitKraken-20B2AA?logo=gitkraken&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-VisualStudio-663399?logo=visualstudio&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Insomnia-8A2BE2?logo=Insomnia&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Linux-FFFFFF?logo=Linux&logoColor=black&style=flat)
+![](https://img.shields.io/badge/-Bash-708090?logo=GNUBash&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-AWS-FF6347?logo=AmazonAWS&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Figma-E0FFFF?logo=figma&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Adobe%20Cloud-DC143C?logo=adobecreativecloud&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-WordPress-6495ED?logo=wordpress&logoColor=white&style=flat)
 
 # <img src="https://user-images.githubusercontent.com/55926933/123521560-ffaa3180-d6e9-11eb-9244-1e06927c314c.gif" width="60px"> Github Stats
 <a href="https://github.com/nicolaijacobsz1/github-readme-stats">
