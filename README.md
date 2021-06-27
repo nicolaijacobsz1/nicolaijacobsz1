@@ -64,6 +64,7 @@ As a Application Support Engineer, I love helping people and coding is my passio
 ![](https://img.shields.io/badge/-Figma-E0FFFF?logo=figma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Adobe%20Cloud-DC143C?logo=adobecreativecloud&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-WordPress-6495ED?logo=wordpress&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Jira-0000FF?logo=Jira&logoColor=white&style=flat)
 
 # <img src="https://user-images.githubusercontent.com/55926933/123521560-ffaa3180-d6e9-11eb-9244-1e06927c314c.gif" width="60px"> Github Stats
 <a href="https://github.com/nicolaijacobsz1/github-readme-stats">
