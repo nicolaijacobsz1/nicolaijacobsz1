@@ -26,7 +26,7 @@
 ## Welcome to my Page! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 <p> I am an Application Support Engineer and UI/UX Designer. I love programming, designing, ethical hacking and traveling.
 
-As a Application Support Engineer, I love helping people and coding is my passion. I enjoy using my obsessive attention to detail to fix issues that may not be easy to spot. 
+As an Application Support Engineer, I love helping people and coding is my passion. I enjoy using my obsessive attention to detail to fix issues that may not be easy to spot. 
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width:100%;">
