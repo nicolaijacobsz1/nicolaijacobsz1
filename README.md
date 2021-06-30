@@ -71,9 +71,7 @@ As an Application Support Engineer, I love helping people and coding is my passi
 <a href="https://github.com/nicolaijacobsz1/github-readme-stats">
   <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolaijacobsz1&show_icons=true" />
 </a>
-<a href=https://github.com/nicolaijacobsz1/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaijacobsz1&layout=compact" />
-</a>
+
 
 
 
