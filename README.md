@@ -29,7 +29,8 @@
 As an Application Support Engineer, I love helping people and coding is my passion. I enjoy using my obsessive attention to detail to fix issues that may not be easy to spot. 
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e478z9mrlqlfk6jdsoz6m4fhyce35zxti1brgwz0uo9&rid=giphy.gif&ct=g" width="408" height="318" style="max-width:100%;">
+
 
 #### Some quick information
 - 🕸 I’m interested in Ethical Hacking, Web Development, Raspberry Pi Pojects
