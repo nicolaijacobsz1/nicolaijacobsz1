@@ -24,7 +24,7 @@
 
 
 ## Welcome to my Page! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
-<p> I am an Application Support Engineer and UI/UX Designer. I love programming, designing, ethical hacking and traveling.
+<p> I am a Sr Security Analyst interested in Code and web application pentesting. I love programming, designing, ethical hacking, and traveling.
 
 As an Application Support Engineer, I love helping people and coding is my passion. I enjoy using my obsessive attention to detail to fix issues that may not be easy to spot. 
 </p>
@@ -33,11 +33,11 @@ As an Application Support Engineer, I love helping people and coding is my passi
 
 
 #### Some quick information
-- 🕸 I’m interested in Ethical Hacking, Web Development, Raspberry Pi Pojects
-- 👨🏻‍💻 I’m currently learning C# .NET and more advance Ruby on Rails with React.js
-- 👥 I’m looking to collaborate on Web application secuirty or web development projects, lets connect!
+- 🕸 I’m interested in Ethical Hacking, Web Development, Raspberry Pi projects
+- 👨🏻‍💻 I’m currently learning C# .NET and more advanced Ruby on Rails with React.js
+- 👥 I’m looking to collaborate on Web application security or web development projects, lets connect!
 - 📫 How to reach me by sending me a message or reaching me on  <a href="https://www.linkedin.com/in/nicolai-jacobsz-776a6585/">linkedin</a>
-- 📂 Here is my Resume [NicolaiJacobsz.MY.pdf](https://github.com/nicolaijacobsz1/nicolaijacobsz1/files/6721370/NicolaiJacobsz.MY.pdf)
+
 
 
 # Technology & Tools 
